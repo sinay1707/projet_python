@@ -1,4 +1,4 @@
-# projet_cnes
+# projet_python
 
 
 CLICK ON THE LINK BELOW TO VIEW THE CODE ON GOOGLE COLLAB : 
